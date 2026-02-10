@@ -25,7 +25,7 @@ It provides insights into **orders, delivery performance, hubs, drivers, and veh
 - **Hub Performance Ranking**
 - **Driver Delay Analysis**
 - **Vehicle Status & Breakdowns**
-- 
+
 ## Dashboard Screenshots
 ![images/dashboard.png](https://github.com/Khushbu2508/SwiftRoute_PowerBI_Dashboard/blob/main/Main_dashboard.png)
 ![(images/dashboard.png)](https://github.com/Khushbu2508/SwiftRoute_PowerBI_Dashboard/blob/main/Hubs_overview.png)
