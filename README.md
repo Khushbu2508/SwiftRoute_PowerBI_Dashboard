@@ -1,4 +1,4 @@
-# SwiftRoute_PowerBI_Dashboard
+# SwiftRoute_Delivery_Analytics_Dashboard
 Power BI dashboard analyzing delivery orders, on-time rate, CSAT, hubs, drivers, vehicles, and performance metrics.
 
 ## Project Overview
@@ -7,7 +7,7 @@ It provides insights into **orders, delivery performance, hubs, drivers, and veh
 
 ## Objectives
 - Track total orders and on-time delivery performance  
-- Analyze customer satisfaction (CSAT)  
+- Analyze customer satisfaction Score(CSAT)  
 - Evaluate hub efficiency and processing time  
 - Monitor driver performance and delays  
 - Analyze vehicle utilization and breakdowns  
@@ -26,39 +26,8 @@ It provides insights into **orders, delivery performance, hubs, drivers, and veh
 - **Hub Performance Ranking**
 - **Driver Delay Analysis**
 - **Vehicle Status & Breakdowns**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##Dashboard Screenshots
+- 
+## Dashboard Screenshots
 ![images/dashboard.png](https://github.com/Khushbu2508/SwiftRoute_PowerBI_Dashboard/blob/main/Main_dashboard.png)
 ![(images/dashboard.png)](https://github.com/Khushbu2508/SwiftRoute_PowerBI_Dashboard/blob/main/Hubs_overview.png)
 ![(images/dashboard.png)](https://github.com/Khushbu2508/SwiftRoute_PowerBI_Dashboard/blob/main/Drivers_overview.png)
