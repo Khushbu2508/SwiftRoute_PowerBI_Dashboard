@@ -2,7 +2,7 @@
 Power BI dashboard analyzing delivery orders, on-time rate, CSAT, hubs, drivers, vehicles, and performance metrics.
 
 
-![Dashboard](images/dashboard.png)
+![Dashboard]([images/dashboard.png](https://github.com/Khushbu2508/SwiftRoute_PowerBI_Dashboard/blob/main/Main_dashboard.png)
 ![Dashboard](images/dashboard.png)
 ![Dashboard](images/dashboard.png)
 ![Dashboard](images/dashboard.png)
