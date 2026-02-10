@@ -1,5 +1,4 @@
 # SwiftRoute_Delivery_Analytics_Dashboard
-Power BI dashboard analyzing delivery orders, on-time rate, CSAT, hubs, drivers, vehicles, and performance metrics.
 
 ## Project Overview
 This project presents an interactive **Power BI dashboard** designed to analyze and monitor delivery operations for **SwiftRoute**.  
